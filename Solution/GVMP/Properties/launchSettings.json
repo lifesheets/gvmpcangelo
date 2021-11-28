@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GVMP": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Administrator\\Desktop\\GVMPc\\start.bat",
+      "workingDirectory": "C:\\Users\\Administrator\\Desktop\\GVMPc",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,8 @@
+G:\RAGEMP\server-files037\bridge\resources\GVMP\GVMP.deps.json
+G:\RAGEMP\server-files037\bridge\resources\GVMP\GVMP.dll
+G:\RAGEMP\server-files037\bridge\resources\GVMP\GVMP.pdb
+G:\RCL\GVMP\GVMP\GVMP\obj\x86\Release\GVMP.csprojAssemblyReference.cache
+G:\RCL\GVMP\GVMP\GVMP\obj\x86\Release\GVMP.csproj.CoreCompileInputs.cache
+G:\RCL\GVMP\GVMP\GVMP\obj\x86\Release\GVMP.csproj.CopyComplete
+G:\RCL\GVMP\GVMP\GVMP\obj\x86\Release\GVMP.dll
+G:\RCL\GVMP\GVMP\GVMP\obj\x86\Release\GVMP.pdb

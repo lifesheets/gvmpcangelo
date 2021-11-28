@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# IDE0011: Geschweifte Klammern hinzufügen
+csharp_prefer_braces = false:silent
+
+# IDE0005: Using-Direktive ist unnötig.
+dotnet_diagnostic.IDE0005.severity = none
+
+# CS0472: Das Ergebnis des Ausdrucks lautet immer gleich, da ein Wert dieses Typs niemals 'null' entspricht
+dotnet_diagnostic.CS0472.severity = none
+
+# IDE0022: Blocktextkörper für Methoden verwenden
+csharp_style_expression_bodied_methods = true:silent

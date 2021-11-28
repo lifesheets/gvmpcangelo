@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    },
+    "e8cf95e4-cac5-4686-a1ee-3158e593773a": {
+      "ProjectGuid": "e8cf95e4-cac5-4686-a1ee-3158e593773a",
+      "DisplayName": "GVMP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

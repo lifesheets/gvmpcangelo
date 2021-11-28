@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sound</title>
+    <style>
+    html, body, * {
+        background-color: transparent
+    }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.1.2/howler.core.min.js"
+        integrity="sha256-q2vnVvwrx3RbYXPyAwx7c2npmULQg2VdCXBoJ5+iigs=" crossorigin="anonymous"></script>
+    <script>
+        function playSound(soundname) {
+            var sound = new Howl({
+                src: ['sounds/' + soundname + '.mp3'],
+                loop: false,
+            })
+            sound.play()
+            sound.on('end', function () {
+                mp.trigger('sound:cancel')
+            })
+        }
+    </script>
+</body>
+</html>

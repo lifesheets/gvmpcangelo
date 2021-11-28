@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.4"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\Kian\\.nuget\\packages\\",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}
